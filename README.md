@@ -10,5 +10,7 @@ add text to this file
 # =======
 # below it the master that conflicts
 This is a test
-# This is the code saying it is the master
-#>>>>>>> master
+
+Another change
+
+This is changed in atom locally and being committed on source tree.
